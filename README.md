@@ -33,7 +33,7 @@ claw-standup [options]
 - `--path <dir>`: Workspace directory to scan (default: current dir)
 - `--author <name>`: Git author to filter by (default: git config user.name)
 - `--ai`: Enable AI summarization via 'gemini' CLI (default: false)
-- `--json`: Output JSON instead of Markdown
+- `--human, -H    Human-readable output (default: JSON) instead of Markdown
 - `--help`: Show help
 
 ## Examples
