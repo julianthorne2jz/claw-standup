@@ -8,6 +8,10 @@
   },
   "author": "Julian Thorne",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julianthorne2jz/claw-standup.git"
+  },
   "dependencies": {
     "chalk": "^4.1.2",
     "minimist": "^1.2.8"
