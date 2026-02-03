@@ -1,5 +1,16 @@
 # claw-standup
 
+## Install
+
+```bash
+git clone https://github.com/julianthorne2jz/claw-standup
+cd claw-standup
+npm link
+```
+
+Now you can use `claw-standup` from anywhere.
+
+
 Generate daily standup reports from git logs and memory.
 
 ## Installation
